@@ -1,6 +1,6 @@
 Hello World 🌏
 
-![image](https://user-images.githubusercontent.com/118198788/202243821-6a72560e-4cd2-4eeb-a27d-8a3485d927d9.png)
+![image](https://user-images.githubusercontent.com/118198788/202244219-2bd20f47-fb16-4b78-8527-a132e24d5635.png)
 
 
 - I'm 20 years old.
